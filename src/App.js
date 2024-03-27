@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My Fist App Deployed in AWS CLoud
         </a>
       </header>
     </div>
